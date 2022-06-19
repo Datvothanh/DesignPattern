@@ -1,0 +1,6 @@
+S1,Thanh Lợi,20,Nam,QN,thanhloi@gmail.com,123,CNTT
+S2,Huy,20,Nam,QN,123,234,CNTT
+S3,Tin,21,Nam,132,123,234,CNTT
+S4,Thanh Lợi,23,Nam,QN,thanhloi@gmail.com,123,CNTT
+S5,Dun,19,Nu,QN,123,123,May
+S6,vo thanh dat,18,nam,ahdsasd,asashdjd,02315,cntt
